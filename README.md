@@ -14,7 +14,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 
 <div align="center"> 
   <a href=""> 
-    <img src="https://github.com/mruniquehacker/NOX_SPACE/blob/main/assets/bot_image.jpg" alt="NOX_SPACE" height="300"> 
+    <img src="https://github.com/noxspacetechinc/NOX_SPACE/blob/main/assets/bot_image.jpg" alt="NOX_SPACE" height="300"> 
   </a> 
 </div>
 
