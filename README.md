@@ -27,7 +27,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 Click the button below to fork the Prince Bot repository to your GitHub account:
 
 <div align="center">
-  <a href="https://github.com/mruniquehacker/NOX_SPACE/fork">
+  <a href="https://github.com/noxspacetechinc/NOX_SPACE/fork">
     <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge" alt="Fork the repository"/>
   </a>
 </div>
