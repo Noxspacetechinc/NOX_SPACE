@@ -4,23 +4,17 @@
 
 ![𝙽𝚘𝚡-𝚂𝚙𝚊𝚌𝚎 𝙱𝚊𝚗𝚗𝚎𝚛]( https://files.catbox.moe/xlxz6g.jpg )
 
-This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
-
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
     <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=NOX_SPACE;Multi+Device+Whatsapp+Bot;" alt="Typing SVG" />
   </a> 
 </div> 
 
-<div align="center"> 
-  <a href=""> 
-    <img src="https://github.com/noxspacetechinc/NOX_SPACE/blob/main/assets/bot_image.jpg" alt="NOX_SPACE" height="300"> 
-  </a> 
-</div>
+This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
 
 ---
 
-## ðŸš€ Steps to Deploy
+## Steps to Deploy
 
 ### Step 1: Fork the Repository
 
